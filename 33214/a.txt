@@ -1,0 +1,13 @@
+roll | first | last | city | m1 | m2 | m3 | avg |
+
+11	 | atharv|chavan|pune  | 30 |20  | 90 |  80	|
+
+12   |shubham|darak |ichi  | 20 |30  | 70 |  90	|
+
+13   |omkar  |deshpa|sagmne| 10 |40  | 50 |  60	|
+
+14   | devesh|chan  |ngp   | 30 |60  | 40 |  50	|
+
+15   |piyush |agrawa|jalgao| 40 |50  | 30 |  40	|
+
+17   |alrik |fernandes|Goa| 40 |50  | 30 |  40	|
